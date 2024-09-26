@@ -1,6 +1,6 @@
 import { useState } from "react"
 import Form from "./Form";
-import TodoList from "./todolist";
+import TodoList from "./Todolist";
 import Footer from "./footer";
 
 export default function Todo(){
